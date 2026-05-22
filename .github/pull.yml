@@ -2,7 +2,7 @@ version: "1"
 rules:
   # Once main-au is validated and merged to main, uncomment line below and remove main-au rule
   # - base: main
-  - base: main-au
+  - base: main
     upstream: KelvinTegelaar:main
     mergeMethod: merge
   # Don't need dev noise 
